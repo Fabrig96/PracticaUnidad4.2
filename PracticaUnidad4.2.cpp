@@ -8,6 +8,7 @@ Sprite sprite1;
 Sprite sprite2;
 Sprite sprite3;
 Sprite sprite4;
+
 int main() {
 	sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Sniper^4 Drag");
 
